@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd-number {
+ background-color: rgb(219, 69, 106);
+ font-family:Verdana, "DejaVu Sans", sans-serif ;
+}
+
+#id-one {
+    color:rgb(0, 2, 100);
+    font-size: 36px;
+}
+
+#unique-px{
+    font-size: 24px;
+}
+
+#id-two{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
